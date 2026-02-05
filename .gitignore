@@ -1,0 +1,10 @@
+# Data
+data/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Notebooks
+.ipynb_checkpoints/
